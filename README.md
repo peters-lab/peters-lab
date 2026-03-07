@@ -10,7 +10,13 @@ A specialized tool that allows users to **[view Twitter without an account](http
 ### 2️⃣ [IG-Profile-Viewer](https://ig-profile-viewer.com)
 The most reliable way to **[view Instagram profiles without an account](https://ig-profile-viewer.com)**. Optimized for privacy and speed.
 
-### 3️⃣ [excel-formula-generator](https://excel-formula.net/)
+### 3️⃣ [Discord-Timestamp-Generator](https://discord-timestamp-generator.com)
+A productivity utility to generate **[localized Discord timestamps](https://discord-timestamp-generator.com)**. 
+- **Problem Solved**: Eliminates timezone confusion in global Discord communities.
+- **Tech Stack**: Built with **Next.js 14** and **Tailwind CSS** for ultra-fast, zero-bloat performance.
+- **Key Feature**: Supports all 7 Discord formats with one-click copy-paste logic.
+
+### 4️⃣ [excel-formula-generator](https://excel-formula.net/)
 An AI-powered utility to **[generate Excel formulas](https://excel-formula.net)** from plain text. Boosting productivity for data analysts.
 
 ---
