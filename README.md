@@ -16,10 +16,8 @@ A productivity utility to generate **[localized Discord timestamps](https://disc
 - **Tech Stack**: Built with **Next.js 14** and **Tailwind CSS** for ultra-fast, zero-bloat performance.
 - **Key Feature**: Supports all 7 Discord formats with one-click copy-paste logic.
 
-### 4️⃣ [excel-formula-generator](https://excel-formula.net/)
-An AI-powered utility to **[generate Excel formulas](https://excel-formula.net)** from plain text. Boosting productivity for data analysts.
-
----
+### 4️⃣ [AI-Manga-Translator](https://ai-manga-translator.com/)
+An AI-powered localization engine to **[translate manga with precision OCR](https://ai-manga-translator.com/)**. Breaking language barriers for indie creators with contextual AI and automated typesetting.
 
 ### ⚡ Technical Challenges I'm Tackling:
 * **SSR Architecture**
