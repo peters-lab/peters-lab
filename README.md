@@ -1,6 +1,6 @@
 ## Hi there I'm Peter Anderson 👋
 
-15+ years of software engineering experience, currently building high-performance, privacy-first tools.
+15+ years of software engineering experience, currently building high-performance, privacy-first tools at [Peterslab](https://peterslab.co/).
 
 ##  My Current Projects
 
