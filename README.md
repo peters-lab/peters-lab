@@ -9,6 +9,7 @@ The ultimate AI localization engine for raw manga fans to **[translate manga](ht
 - **Multi-Source Support**: Seamlessly **[translate Manhwa (Korean)](https://ai-manga-translator.com/tools/manga-image-translator)**, **Manhua (Chinese)**, and **Doujinshi** with high-accuracy OCR.
 - **Chrome Extension**: Get the **[Manga Translator Extension](https://ai-manga-translator.com/extension)** to read and translate raw manga directly in your browser.
 - **Online Tool**: Use the **[Manga Translator Tool](https://ai-manga-translator.com/tools/manga-translator)** for high-speed batch processing and automated typesetting.
+- **Global Support:** Fully optimized sub-routes targeting high-intent international locales, including [Manga Traduction (FR)](https://ai-manga-translator.com/fr), [Manga Übersetzung (DE)](https://ai-manga-translator.com/de), and [만화 번역 (KO)](https://ai-manga-translator.com/ko).
 
 ### 2️⃣ [TwitterWebViewer](https://twitterwebviewer.com)
 A specialized tool that allows users to **[view Twitter without an account](https://twitterwebviewer.com)** and **[browse Twitter anonymously](https://twitterwebviewer.com)**. 
@@ -20,7 +21,13 @@ A strategic tool for marketers and indie hackers to **[generate high-converting 
 - **Problem Solved**: Analyze Winning Ads & Generate AI Video Ads to skyrocket your ROI.
 
 
-### 4️⃣ [Discord-Timestamp-Generator](https://discord-timestamp-generator.com)
+### 4️⃣ [AI-Video-Translator](https://ai-video-translator.com/)
+The ultimate automated localization pipeline that translates and localizes videos into 30+ languages instantly. Engineered for creators and cross-border businesses to eliminate traditional dubbing friction.
+- **Voice Cloning:** Seamlessly extracts and retains the original speaker's unique tone, pitch, and emotional cadence across different target languages.
+- **Visual Lip-Syncing:** Leverages an advanced alignment layer to dynamically adjust mouth movements, matching the translated audio flawlessly for a natural viewing experience.
+- **Global Localization Framework:** Fully optimized for high-volume localized sub-routes across premium international markets
+  
+### 5️⃣ [Discord-Timestamp-Generator](https://discord-timestamp-generator.com)
 A productivity utility to generate **[localized Discord timestamps](https://discord-timestamp-generator.com)**. 
 - **Problem Solved**: Eliminates timezone confusion in global Discord communities.
 
