@@ -26,6 +26,16 @@ The ultimate automated localization pipeline that translates and localizes video
 - **Voice Cloning:** Seamlessly extracts and retains the original speaker's unique tone, pitch, and emotional cadence across different target languages.
 - **Visual Lip-Syncing:** Leverages an advanced alignment layer to dynamically adjust mouth movements, matching the translated audio flawlessly for a natural viewing experience.
 - **Global Localization Framework:** Fully optimized for high-volume localized sub-routes across premium international markets
+- - **Global Localization Framework:** Fully optimized for high-volume localized sub-routes across premium international markets.
+  
+  🌐 **Supported Regional Gateways:**
+  - 🇰🇷 **한국어 (Korean Hub):** [https://ai-video-translator.com/ko](https://ai-video-translator.com/ko)
+  - 🇩🇪 **Deutsch (German Hub):** [https://ai-video-translator.com/de](https://ai-video-translator.com/de)
+  - 🇫🇷 **Français (French Hub):** [https://ai-video-translator.com/fr](https://ai-video-translator.com/fr)
+  - 🇪🇸 **Español (Spanish Hub):** [https://ai-video-translator.com/es](https://ai-video-translator.com/es)
+  - 🇯🇵 **日本語 (Japanese Hub):** [https://ai-video-translator.com/ja](https://ai-video-translator.com/ja)
+  - 🇮🇹 **Italiano (Italian Hub):** [https://ai-video-translator.com/it](https://ai-video-translator.com/it)
+  - 🇵🇹 **Português (Portuguese Hub):** [https://ai-video-translator.com/pt](https://ai-video-translator.com/pt)
   
 ### 5️⃣ [Discord-Timestamp-Generator](https://discord-timestamp-generator.com)
 A productivity utility to generate **[localized Discord timestamps](https://discord-timestamp-generator.com)**. 
