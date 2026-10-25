@@ -10,7 +10,7 @@ The ultimate AI localization engine for raw manga fans to **[translate manga](ht
 - **Chrome Extension**: Get the **[Manga Translator Extension](https://ai-manga-translator.com/extension)** to read and translate raw manga directly in your browser.
 - **Online Tool**: Use the **[Manga Translator Tool](https://ai-manga-translator.com/tools/manga-translator)** for high-speed batch processing and automated typesetting.
 **🇰🇷 한국어:** [AI 만화 번역기](https://ai-manga-translator.com/ko) · [만화 이미지 번역기](https://ai-manga-translator.com/ko/tools/manga-image-translator) · [만화 번역 AI](https://ai-manga-translator.com/ko/tools/manga-translate) · [AI 만화 번역기 추천](https://ai-manga-translator.com/ko/blog/best-manga-translator-2026)
-- **Global Support:** Fully optimized sub-routes targeting high-intent international locales, including [Manga Traduction (FR)](...) and [Manga Übersetzung (DE)](...).
+- **Global Support:** Fully optimized sub-routes targeting high-intent international locales, including [Manga Traduction (FR)](https://ai-manga-translator.com/fr) and [Manga Übersetzung (DE)](https://ai-manga-translator.com/de).
 
 
 ## [AI-Video-Translator](https://ai-video-translator.com/)
